@@ -31,6 +31,17 @@ This project focuses on detecting fraudulent credit card transactions using supe
 
 ---
 
+## 📂 Dataset
+
+The dataset used in this project is publicly available on Kaggle:
+
+🔗 [Credit Card Fraud Detection – Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+
+- Contains real anonymised transaction data from European cardholders.
+- Highly imbalanced: only ~0.17% of transactions are fraudulent.
+
+---
+
 ## 🛠️ Technologies Used
 Python
 

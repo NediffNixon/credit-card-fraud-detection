@@ -1,0 +1,12 @@
+name: .credit_card_fraud
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10.16
+  - pandas=2.2.3
+  - scikit-learn=1.2.2
+  - imbalanced-learn=0.12.2
+  - xgboost=2.1.1
+  - optuna=4.3.0
+  - optuna-integration=4.3.0

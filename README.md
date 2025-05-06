@@ -1,10 +1,10 @@
-# 💳 Credit Card Fraud Detection with Imbalanced Classification
+## Credit Card Fraud Detection with Imbalanced Classification
 
 This project focuses on detecting fraudulent credit card transactions using supervised learning. It demonstrates a complete machine learning pipeline for **imbalanced classification problems**, showcasing practical techniques to improve model performance in real-world fraud detection scenarios.
 
 ---
 
-## 🧠 Project Highlights
+## Project Highlights
 
 - Addressed **high class imbalance** with a combination of **upsampling** (for minority class) and **downsampling** (for majority class).
 - Trained and compared:
@@ -15,7 +15,7 @@ This project focuses on detecting fraudulent credit card transactions using supe
 
 ---
 
-## ⚙️ Pipeline Overview
+## Pipeline Overview
 
 1. **Data Preprocessing**
    - Feature scaling and train-test split
@@ -31,7 +31,7 @@ This project focuses on detecting fraudulent credit card transactions using supe
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 The dataset used in this project is publicly available on Kaggle:
 
@@ -42,7 +42,7 @@ The dataset used in this project is publicly available on Kaggle:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 Python
 
 scikit-learn
